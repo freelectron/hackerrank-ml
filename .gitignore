@@ -5,3 +5,7 @@
 __pycache__
 
 data
+
+.DS_Store
+
+git config --global user.email "youremail@yourdomain.com"
