@@ -1,0 +1,7 @@
+.idea
+
+.venv
+.conda
+__pycache__
+
+data
